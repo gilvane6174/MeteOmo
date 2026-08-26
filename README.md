@@ -927,7 +927,7 @@ GitHubで公開されている資料が、すべて現在の実装仕様であ�
 
 # 著作権・知的財産
 
-**Copyright © 2025-2026 Yutaka Yoshioka. All Rights Reserved.**
+**Copyright © 2025 Yutaka Yoshioka. All Rights Reserved.**
 
 MeteOmoに関する各成果物の著作権その他の権利は、それぞれ実際に制作した権利者へ帰属します。
 
@@ -1009,13 +1009,13 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 **吉岡有隆**  
 思想・創作・活動全般
 
-https://x.com/yoshiokayutaka_
+[`yoshiokayutaka_`](https://x.com/yoshiokayutaka_) 
 
 **Yutaka Yoshioka / Development**
 
 開発・技術関連
 
-https://x.com/yutakaapp_
+[`yutakaapp_`](https://x.com/yutakaapp_) 
 
 ---
 

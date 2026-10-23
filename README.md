@@ -93,8 +93,6 @@ MeteOmoでは、記録そのものを最終目的にはしていません。
 - **企画・原案・設計:** 吉岡有隆 / Yutaka Yoshioka
 - **License:** MeteOmo Custom License
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15847266.svg)](https://doi.org/10.5281/zenodo.15847266)
-
 ---
 
 # 現在の開発状況
@@ -1016,16 +1014,6 @@ https://note.com/yoshiokayutaka/m/mc1445248ddfb
 開発・技術関連
 
 [`yutakaapp_`](https://x.com/yutakaapp_) 
-
----
-
-# DOI / Archive
-
-MeteOmoに関連する公開記録はZenodoにも保存されています。
-
-**DOI:** 10.5281/zenodo.15847266
-
-https://doi.org/10.5281/zenodo.15847266
 
 ---
 

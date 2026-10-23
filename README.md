@@ -892,6 +892,9 @@ MeteOmoは、医師、医療機関、福祉専門職、行政その他の専門�
 - [`docs/privacy_policy.md`](./docs/privacy_policy.md)  
   プライバシーおよびデータ保護に関する方針
 
+- [`docs/MeteOmo_Blueprints_and_Flowcharts.md`](./docs/MeteOmo_Blueprints_and_Flowcharts.md)  
+  初期設計図・フローチャート（v0.1）
+
 - [`LICENSE.md`](./LICENSE)  
   MeteOmo Custom License
 
